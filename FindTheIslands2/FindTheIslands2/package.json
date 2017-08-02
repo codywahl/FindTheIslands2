@@ -1,0 +1,9 @@
+{
+  "name": "find-the-islands2",
+  "version": "0.0.0",
+  "description": "FindTheIslands2",
+  "main": "app.js",
+  "author": {
+    "name": "cody.wahl"
+  }
+}
